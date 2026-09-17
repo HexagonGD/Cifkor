@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b0f79594e394cd0aad03c7f5a1c0e57, type: 3}
+  m_Name: EnergyConfig
+  m_EditorClassIdentifier: Assembly-CSharp::SwiftRiver.Models.Clicker.EnergyConfig
+  _maxEnergy: 1000
+  _energyCostPerTap: 1
+  _energyCostPerAuto: 1
+  _energyRestoreAmount: 10
+  _energyRestoreInterval: 10
